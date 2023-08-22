@@ -32,8 +32,7 @@ CookABot is powered by these awesome packages:
 
 1. Clone this repository.
 2. Run `flutter pub get` to install dependencies.
-3. Fire up your emulator or device.
-4. Let the bot avatar creation begin with `flutter run`!
+3. Let the bot avatar creation begin with `flutter run`!
 
 ## Showcase 🤩
 
