@@ -8,9 +8,7 @@ Welcome to CookABot, where creativity meets avatars! 🎨 Design your very own b
 
 ## Preview 🌐
 
-<div align="center"> 
-    <video src="assets/cookabot_preview.mp4" alt="CookABot Logo" width="100%" muted controls>
-</div>
+https://github.com/SolomonAbuh/CookAbot/assets/67615397/e3b0e5ef-331a-4258-8a13-e60c31064e00
 
 ## Features 🌟
 
@@ -39,7 +37,7 @@ CookABot is powered by these awesome packages:
 
 ## Showcase 🤩
 
-Here are some of the amazing bot chaaracters generated from CookABot
+Here are some of the amazing bot characters generated from CookABot
 
 <div align="center">
     <img src="assets/show_case.png" alt="CookABot showcase" width="100%">
