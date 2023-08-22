@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         routes: routes,
         initialRoute: BuilderPage.routeName,
         debugShowCheckedModeBanner: false,
-        title: 'Flutter Demo',
+        title: 'CookABot',
         theme: ThemeData(
           scaffoldBackgroundColor: AppColors.appBackgroundPageColor,
           elevatedButtonTheme: ElevatedButtonThemeData(

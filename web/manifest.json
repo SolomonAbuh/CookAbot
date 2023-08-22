@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#FEFDF5",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "CookABot is a creative Flutter application that lets you design captivating bot avatars effortlessly. Customize top, ears/side, mouth, bot textures, and colors to express your unique style. Try the random generator for surprise designs and download your creations as stunning images. Powered by Flutter, Riverpod 2.0, and a dash of imagination.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

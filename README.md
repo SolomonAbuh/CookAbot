@@ -6,6 +6,12 @@
 
 Welcome to CookABot, where creativity meets avatars! 🎨 Design your very own bot avatars using the power of Flutter and Riverpod. Express yourself by customizing various bot features, or let randomness surprise you with a unique creation. Save and share your bots for an eye-catching online presence! 🚀
 
+## Preview 🌐
+
+<div align="center"> 
+    <video src="assets/cookabot_preview.mp4" alt="CookABot Logo" width="100%" muted controls>
+</div>
+
 ## Features 🌟
 
 - **Customizable Avatars**: Mix and match top, ears/side, mouth, bot textures, and colors to craft the perfect bot avatar that resonates with your personality.
@@ -41,10 +47,9 @@ Here are some of the amazing bot chaaracters generated from CookABot
 
 ## Resources 📜
 
-This project wouldn't have been successful without the following resources 
+This project wouldn't have been successful without the following resources
 
 - [Bottt library](https://www.dropbox.com/s/x8ine5gsm5hubya/Bottts.sketch?dl=0) designed by [Pablo Stanley](https://twitter.com/pablostanley)
-
 
 ---
 
